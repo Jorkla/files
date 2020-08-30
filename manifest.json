@@ -3,6 +3,8 @@
   "short_name": "Lillsjöns Discgolfbana",
   "description": "Spela discgolf vid Lillsjön i Kungsängen.",
   "start_url": "https://lillsjons-discgolfbana.webflow.io/",
+  "display": "fullscreen",
+  "scope": "/",
   "background_color": "#000000",
   "theme_color": "#0f4a73",
   "icons": [{
