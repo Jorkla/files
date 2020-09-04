@@ -9,7 +9,7 @@
   "theme_color": "#0f4a73",
   "icons": [{
     "src": "https://assets.website-files.com/img/webclip.png",
-    "sizes": "256x256",
+    "sizes": "512x512",
     "type": "image/png"
   }]
   }
