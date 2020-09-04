@@ -5,7 +5,7 @@
   "start_url": "https://lillsjons-discgolfbana.webflow.io/",
   "display": "fullscreen",
   "scope": "/",
-  "background_color": "#000000",
+  "background_color": "#0f4a73",
   "theme_color": "#0f4a73",
   "icons": [{
     "src": "https://assets.website-files.com/img/webclip.png",
